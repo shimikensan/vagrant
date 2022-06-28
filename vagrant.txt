@@ -1,0 +1,6 @@
+vagrant init : Sinh file cau hinh may ao moi Vagrantfile
+vagrant up : create vps
+vagrant ssh: Ket noi toi may ao (user@ip)
+vagrant halt: shutdown
+vagrant reload: reset
+vagrant destroy: delete vps.
